@@ -1,0 +1,12 @@
+Superposition of SHM
+
+When two or more Simple Harmonic Waves coincide parallel to each other, 
+they "superimpose" on eachother to form a resultant wave, with a resultant amplitude.
+
+y1 = A1sin(wt)
+y2 = A2sin(wt + P)
+
+y_res= y1 + y2;
+
+where P is the phase difference,
+resultant amplitude A_Res = sqr(A1) + sqr(A2) + 2 x A1 x A2 x cosP
